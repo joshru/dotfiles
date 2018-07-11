@@ -1,0 +1,6 @@
+####################################################################################################
+# File: .gitignore
+# Description: .gitignore for the dotfiles repository.
+####################################################################################################
+
+# plan to avoid file ignoring through the use of symlinks
