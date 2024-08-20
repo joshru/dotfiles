@@ -1,0 +1,5 @@
+[submodule "neovim_config"]
+	path = ~/.config/kickstart-modular.nvim
+	url = git@github.com:joshru/kickstart-modular.nvim.git
+	branch = custom
+
