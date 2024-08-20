@@ -103,4 +103,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Set up fzf key bindings and fuzzy completion
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# Alias for my neovim configuration
 alias vk="NVIM_APPNAME=kickstart-modular.nvim nvim"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
