@@ -1,0 +1,6 @@
+gui:
+  windowSize: half
+  showFileTree: true
+  showCommandLog: false
+  enlargedSideViewLocation: 'top'
+disableStartupPopups: true
