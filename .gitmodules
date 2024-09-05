@@ -1,0 +1,8 @@
+[submodule "neovim_config"]
+	path = .config/kickstart-modular.nvim
+	url = git@github.com:joshru/kickstart-modular.nvim.git
+	branch = custom
+[submodule "tmux_tpm"]
+	path = .tmux/plugins/tpm
+	url = git@github.com:tmux-plugins/tpm.git
+	branch = custom
