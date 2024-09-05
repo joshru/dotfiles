@@ -1,5 +1,5 @@
 gui:
-  windowSize: half
+  # windowSize: half
   showFileTree: true
   showCommandLog: false
   enlargedSideViewLocation: 'top'

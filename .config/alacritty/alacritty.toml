@@ -1,5 +1,4 @@
-# import = ["/home/joshru/.config/alacritty/dracula.toml"]
-import = ["/home/joshru/.config/alacritty/catppuccin-mocha.toml"]
+import = ["/home/joshru/.config/alacritty/themes/catppuccin/catppuccin-macchiato.toml"]
 
 [shell]
 program = "tmux"
